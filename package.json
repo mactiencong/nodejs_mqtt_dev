@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_mqtt_dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mactiencong/nodejs_mqtt_dev.git"
+  },
+  "author": "matico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mactiencong/nodejs_mqtt_dev/issues"
+  },
+  "homepage": "https://github.com/mactiencong/nodejs_mqtt_dev#readme"
+}
