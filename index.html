@@ -1,0 +1,12 @@
+<html>
+<body>
+    <script src="./mqtt.min.js"></script>
+    <script>
+        var client = mqtt.connect("mqtt://localhost:9001");
+        client.subscribe("myTopic");
+        client.on("message", function (topic, message) {
+            console.log("Message from " + topic + ": " + message);
+        })
+    </script>
+</body>
+</html>

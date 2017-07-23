@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mactiencong/nodejs_mqtt_dev/issues"
   },
-  "homepage": "https://github.com/mactiencong/nodejs_mqtt_dev#readme"
+  "homepage": "https://github.com/mactiencong/nodejs_mqtt_dev#readme",
+  "dependencies": {
+    "mqtt": "^2.9.2"
+  }
 }
