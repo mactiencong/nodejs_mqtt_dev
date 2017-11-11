@@ -1,1 +1,1 @@
-# Example MQTT protocal in NodeJS
+# Example MQTT protocol in NodeJS
